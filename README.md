@@ -111,6 +111,23 @@ hemanthn270@gmail.com
 - Frontend UI Engineering
 - React & JavaScript
 - Creative Portfolio Design
+- Animation & Interactive UI
+- Deployment & Cloud Hosting
+
+---
+
+# 🌌 Project Highlights
+
+- Custom aerospace manufacturing portfolio
+- Cinematic animated storm sky background
+- Responsive UI for all devices
+- Advanced CSS animation effects
+- Professional manufacturing engineer branding
+- Realistic thunder and cloud atmosphere
+- Smooth modern portfolio interactions
+
+---
+
 
 # ⭐ Support
 
