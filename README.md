@@ -90,13 +90,27 @@ https://wa.me/918197351525
 ### Email
 pratikshababshet1412@gmail.com
 
----
 
-# 👨‍💻 Developed By
+# 👨‍💻 Designed & Developed By
 
-Hemanth N
+## Hemanth N
 
----
+Full Stack Developer | UI/UX Designer | Creative Frontend Developer
+
+### GitHub
+https://github.com/Hemanthn2003
+
+### WhatsApp
+https://wa.me/91948420976
+
+### Email
+hemanthn270@gmail.com
+
+### Skills
+- Full Stack Development
+- Frontend UI Engineering
+- React & JavaScript
+- Creative Portfolio Design
 
 # ⭐ Support
 
